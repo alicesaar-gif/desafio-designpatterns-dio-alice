@@ -31,10 +31,12 @@ Ao automatizar a consolidação de vendas, este sistema visa:
 
 ---
 
+  ✨ Este projeto foi desenvolvido com o auxílio de inteligência artificial para otimização de documentação e resolução de problemas de infraestrutura.
+
 ## 💻 Como Executar
 
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/alicesaar-gif/desafio-designpatterns-dio-alice.git](https://github.com/alicesaar-gif/desafio-designpatterns-dio-alice.git)
 
-   ✨ Este projeto foi desenvolvido com o auxílio de inteligência artificial para otimização de documentação e resolução de problemas de infraestrutura.
+
